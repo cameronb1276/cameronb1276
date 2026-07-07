@@ -1,2 +1,6 @@
-# Setup instructions — local only, never publish
+# Setup/instruction files — local only, never publish
 CLAUDE_PROFILE_README_SETUP.md
+CLAUDE_PROFILE_README_IMPROVEMENTS.md
+
+# Local backup of the README
+README.backup.md

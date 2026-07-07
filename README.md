@@ -1,8 +1,10 @@
 # Steven Sloan
 
-I build practical websites, web applications, AI tools, and infrastructure for businesses that want to own their digital presence instead of being locked into templates or closed platforms.
+**Custom websites, web applications, AI tools, automation, and digital infrastructure for businesses that want ownership of their technology.**
 
-I'm the builder behind **SloanSites**, where I focus on custom web systems, business tooling, server management, Cloudflare configuration, analytics, monitoring, and security-minded infrastructure.
+I build practical software and infrastructure for businesses that want more control over their websites, systems, data, and source code instead of being locked into templates, SaaS platforms, or closed tools.
+
+I'm the builder behind **SloanSites**, where I create custom websites, web applications, AI tools, digital infrastructure, automations, server setups, Cloudflare configurations, analytics, monitoring, and security-minded systems for businesses that want more control over their technology.
 
 <p align="left">
   <a href="https://sloansites.com">
@@ -29,7 +31,8 @@ My work is focused around custom websites, web apps, internal dashboards, APIs, 
 
 ## What I'm Building
 
-- **SloanSites** — custom websites, web applications, AI tools, hosting/security support, Cloudflare management, analytics, and monitoring.
+- **SloanSites** — custom websites, web applications, AI tools, automation, digital infrastructure, hosting/security support, Cloudflare management, analytics, and monitoring.
+- **Complete Digital Infrastructure** — connecting websites, business systems, admin dashboards, automation, and workflow tooling into infrastructure a business can own end to end.
 - **DetailedTM** — a Rust-based system monitoring project focused on process, port, and task visibility.
 - **Custom Admin Dashboards** — internal tools for managing submissions, users, website data, and business workflows.
 - **Inventory/Fulfillment Systems** — inventory, fulfillment, and warranty workflows inspired by enterprise-style operations.
@@ -37,7 +40,7 @@ My work is focused around custom websites, web apps, internal dashboards, APIs, 
 
 ## Current Focus
 
-- Building production-ready web applications with **TypeScript**, **Node.js**, and **MySQL/MariaDB**.
+- Building and deploying production-ready web applications with **TypeScript**, **Node.js**, **MySQL/MariaDB**, **Docker**, **Nginx**, and Linux-based infrastructure.
 - Expanding **SloanSites** into a practical digital infrastructure service for small businesses.
 - Developing Rust-based tooling for system visibility and desktop utilities.
 - Improving server security, Cloudflare configurations, analytics, monitoring, and admin workflows.
@@ -61,6 +64,8 @@ My work is focused around custom websites, web apps, internal dashboards, APIs, 
 **Infrastructure**
 
 ![Debian](https://img.shields.io/badge/Debian%2FLinux-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -95,7 +100,9 @@ A Rust-based desktop/system monitoring project focused on displaying processes, 
 
 ### Custom Business Systems
 
-I'm building internal tools and business software around admin dashboards, inventory, fulfillment, warranty tracking, website management, and analytics.
+I build internal tools and business software around admin dashboards, inventory, fulfillment, warranty tracking, website management, analytics, automation, and complete digital infrastructure.
+
+The goal is to help businesses connect their website, data, workflows, hosting, monitoring, and internal tools into systems they can actually own and maintain.
 
 ## Development Philosophy
 
@@ -106,21 +113,6 @@ That means building systems that are practical, understandable, maintainable, an
 My goal is to create software that is useful in the real world: fast enough to matter, secure enough to trust, and flexible enough to grow.
 
 ## Contact
-
-<p align="left">
-  <a href="https://sloansites.com">
-    <img src="https://img.shields.io/badge/Website-sloansites.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/steven-sloan-b45ab0232/">
-    <img src="https://img.shields.io/badge/LinkedIn-Steven%20Sloan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:contact@sloansites.com">
-    <img src="https://img.shields.io/badge/Email-contact@sloansites.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/cameronb1276">
-    <img src="https://img.shields.io/badge/GitHub-cameronb1276-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
 
 - Website: [sloansites.com](https://sloansites.com)
 - LinkedIn: [Steven Sloan](https://www.linkedin.com/in/steven-sloan-b45ab0232/)
