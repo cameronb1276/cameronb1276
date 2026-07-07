@@ -16,9 +16,6 @@ I'm the builder behind **SloanSites**, where I create custom websites, web appli
   <a href="mailto:contact@sloansites.com">
     <img src="https://img.shields.io/badge/Email-contact@sloansites.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/cameronb1276">
-    <img src="https://img.shields.io/badge/GitHub-cameronb1276-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 ---
@@ -117,4 +114,3 @@ My goal is to create software that is useful in the real world: fast enough to m
 - Website: [sloansites.com](https://sloansites.com)
 - LinkedIn: [Steven Sloan](https://www.linkedin.com/in/steven-sloan-b45ab0232/)
 - Email: [contact@sloansites.com](mailto:contact@sloansites.com)
-- GitHub: [cameronb1276](https://github.com/cameronb1276)
